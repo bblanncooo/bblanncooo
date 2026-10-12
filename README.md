@@ -1,4 +1,4 @@
-### Hola, soy Carlos 👋
+### Hola, soy Carlos Melero 👋
 
 Desarrollador desde Madrid. Creo productos con IA y webs para negocios.
 
@@ -16,5 +16,9 @@ chat, Modo Estudio con flashcards y exámenes, grupos de estudio, conversación 
 
 JavaScript · Node.js · Express · PostgreSQL · HTML y CSS · PHP · APIs de IA (OpenAI y otras) · Stripe · Railway ·
 Cloudflare · GitHub Actions
+
+#### Contacto
+
+📧 [jcmelero74@gmail.com](mailto:jcmelero74@gmail.com) · 🌐 [blancoai.app](https://blancoai.app)
 
 > El código de mis proyectos es privado; aquí enseño lo que hacen.
