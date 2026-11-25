@@ -27,6 +27,6 @@ voz en tiempo real · Stripe · Railway · Cloudflare
 #### Contacto
 
 📧 [jcmelero74@gmail.com](mailto:jcmelero74@gmail.com) · 🌐 [blancoai.app](https://blancoai.app) ·
-💼 [LinkedIn](https://www.linkedin.com/in/carlos-melero-5151b441a/)
+💼 [LinkedIn](https://www.linkedin.com/in/carlosmeleroai/)
 
 > El código de mis proyectos es privado; aquí enseño lo que hacen.
